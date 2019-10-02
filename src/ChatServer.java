@@ -10,7 +10,10 @@ public class ChatServer {
         byte[] sendData = new byte[1024];
         ArrayList<String> userNames = new ArrayList<>();
 
+        while(true){
 
+
+        }
 
     }
 
